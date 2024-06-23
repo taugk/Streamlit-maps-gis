@@ -1,4 +1,6 @@
 # Streamlit-maps-gis
-membuat maps Kepadatan Penduduk dan Curah Hujan - Banggae, Majene, Sulawesi Barat
+### membuat maps Kepadatan Penduduk dan Curah Hujan - Banggae, Majene, Sulawesi Barat
 ## Demo
-https://sistem-informasi-geografis.streamlit.app/
+
+
+tampilan keseluruhan : https://sistem-informasi-geografis.streamlit.app/
